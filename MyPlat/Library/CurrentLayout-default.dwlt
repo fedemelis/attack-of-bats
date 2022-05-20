@@ -824,19 +824,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 55
   m_LastFolders:
-  - Assets/_Scripts
+  - Assets
   m_LastFoldersGridSize: 55
-  m_LastProjectPath: C:\Users\fedem\OneDrive\Desktop\altro\scuola\informatica\Melis_Federico_4CInf_Gioco\MyPlat
+  m_LastProjectPath: C:\Users\fedem\OneDrive\Documenti\GitHub\attack-of-bats\MyPlat
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ce350000
-    m_LastClickedID: 13774
+    m_SelectedIDs: 7c300000
+    m_LastClickedID: 12412
     m_ExpandedIDs: 000000007c30000040310000d6320000c235000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
